@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2_Intermediate_Programming", "A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming.csproj", "{6562161C-2223-438B-95A7-C2DF2FDF9876}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "A2_Intermediate_ProgrammingContent", "A2_Intermediate_Programming\A2_Intermediate_ProgrammingContent\A2_Intermediate_ProgrammingContent.contentproj", "{2863F1B4-7691-429B-BD3C-E976C9ABC0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6562161C-2223-438B-95A7-C2DF2FDF9876}.Debug|x86.ActiveCfg = Debug|x86
+		{6562161C-2223-438B-95A7-C2DF2FDF9876}.Debug|x86.Build.0 = Debug|x86
+		{6562161C-2223-438B-95A7-C2DF2FDF9876}.Release|x86.ActiveCfg = Release|x86
+		{6562161C-2223-438B-95A7-C2DF2FDF9876}.Release|x86.Build.0 = Release|x86
+		{2863F1B4-7691-429B-BD3C-E976C9ABC0A5}.Debug|x86.ActiveCfg = Debug|x86
+		{2863F1B4-7691-429B-BD3C-E976C9ABC0A5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

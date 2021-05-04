@@ -1,0 +1,13 @@
+Content\Images\Backgrounds\Board.xnb
+Content\Images\Sprites\Dice Roll.xnb
+Content\Images\Sprites\Player1Mouse.xnb
+Content\Images\Sprites\Player2Mouse.xnb
+Content\Images\Sprites\Dice 1.xnb
+Content\Images\Sprites\Dice 2.xnb
+Content\Images\Sprites\Dice 3.xnb
+Content\Images\Sprites\Dice 4.xnb
+Content\Images\Sprites\Dice 5.xnb
+Content\Images\Sprites\Dice 6.xnb
+Content\Fonts\InfoFont.xnb
+Content\Fonts\Newgame.xnb
+Content\Fonts\WinGame.xnb

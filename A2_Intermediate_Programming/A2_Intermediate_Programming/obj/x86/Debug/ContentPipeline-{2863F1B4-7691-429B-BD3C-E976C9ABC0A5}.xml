@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Backgrounds\Board.png</Source>
+      <Name>Images\Backgrounds\Board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Backgrounds\Board.xnb</Output>
+      <Time>2017-11-07T13:27:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice Roll.png</Source>
+      <Name>Images\Sprites\Dice Roll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice Roll.xnb</Output>
+      <Time>2017-11-07T19:42:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Player1Mouse.png</Source>
+      <Name>Images\Sprites\Player1Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Player1Mouse.xnb</Output>
+      <Time>2017-11-08T10:31:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Player2Mouse.png</Source>
+      <Name>Images\Sprites\Player2Mouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Player2Mouse.xnb</Output>
+      <Time>2017-11-08T10:31:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 1.png</Source>
+      <Name>Images\Sprites\Dice 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 1.xnb</Output>
+      <Time>2017-11-09T20:00:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 2.png</Source>
+      <Name>Images\Sprites\Dice 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 2.xnb</Output>
+      <Time>2017-11-09T20:00:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 3.png</Source>
+      <Name>Images\Sprites\Dice 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 3.xnb</Output>
+      <Time>2017-11-09T20:00:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 4.png</Source>
+      <Name>Images\Sprites\Dice 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 4.xnb</Output>
+      <Time>2017-11-09T20:00:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 5.png</Source>
+      <Name>Images\Sprites\Dice 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 5.xnb</Output>
+      <Time>2017-11-09T20:01:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Sprites\Dice 6.png</Source>
+      <Name>Images\Sprites\Dice 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Images\Sprites\Dice 6.xnb</Output>
+      <Time>2017-11-09T20:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\InfoFont.spritefont</Source>
+      <Name>Fonts\InfoFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Fonts\InfoFont.xnb</Output>
+      <Time>2017-11-07T20:27:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Newgame.spritefont</Source>
+      <Name>Fonts\Newgame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Fonts\Newgame.xnb</Output>
+      <Time>2017-11-15T20:50:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\WinGame.spritefont</Source>
+      <Name>Fonts\WinGame</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\Fonts\WinGame.xnb</Output>
+      <Time>2017-11-15T20:54:54-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{2863F1B4-7691-429B-BD3C-E976C9ABC0A5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_ProgrammingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Vibee\Desktop\Computer Science SLSS\ICS3U1 - SLSS\A2_Intermediate_Programming\A2_Intermediate_Programming\A2_Intermediate_Programming\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-02-19T23:36:24.3164466-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
